@@ -1,0 +1,37 @@
+
+{
+  "items": [
+    {
+      "name": "Faisal Mahmud",
+      "image": "assets/images/faisal.jpg"
+    },
+    {
+      "name": "Niloy Mahmud",
+      "image": "assets/images/faiyaz.jpg"
+    },
+    {
+      "name": "Farhan Shahriar",
+      "image": "assets/images/farhan.jpg"
+    },
+    {
+      "name": "Shehmaz islam",
+      "image": "assets/images/shehmaz.jpg"
+    },
+    {
+      "name": "Sakib Haider",
+      "image": "assets/images/shehmaz.jpg"
+    },
+    {
+      "name": "Mohammad Jubayer",
+      "image": "assets/images/zubz.jpg"
+    },
+    {
+      "name": "Shehjad Ishan",
+      "image": "assets/images/zubz.jpg"
+    },
+    {
+      "name": "B.M. Tonu",
+      "image": "assets/images/tonu.jpg"
+    }
+  ]
+}
